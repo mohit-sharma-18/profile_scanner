@@ -36,7 +36,7 @@ const data = [
     },
 
     {
-        name: 'Jyoti Rana',
+        name: 'Sana khan',
         age: '26',
         city: 'Kolkata',
         religion: 'Muslim',
